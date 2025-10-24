@@ -71,6 +71,7 @@ car-sales-performance-dashboard/
 └── README.md                            # Project documentation
 
 📁 Output
+![Image](https://github.com/user-attachments/assets/e95df972-9724-4b91-91a5-67cefe3c0ee6)
 
 
 
